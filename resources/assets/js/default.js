@@ -1,0 +1,2 @@
+//prevent to delete task
+//$('')
